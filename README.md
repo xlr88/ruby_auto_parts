@@ -15,3 +15,4 @@
 4. npm start
 
 Login using seeded accounts in server/.env (ADMIN1_EMAIL, ADMIN1_PASS, etc).
+Hi
